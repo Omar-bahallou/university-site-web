@@ -1,11 +1,11 @@
 /* Cascading Style Sheets */
 @font-face {
    font-family: myFirstFont;
-   src: url(../Poppins/Poppins-Regular.ttf);
+   src: url(Poppins/Poppins-Regular.ttf);
 }
 @font-face {
     font-family: bold;
-    src: url(../Poppins/Poppins-Bold.ttf);
+    src: url(Poppins/Poppins-Bold.ttf);
    }
 *{
    margin: 0;
